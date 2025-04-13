@@ -18,7 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajiraneem&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💻 Most used languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meehad&langs_count=10&layout=compact&theme=material-palenight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
